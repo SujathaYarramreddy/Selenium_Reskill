@@ -12,7 +12,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.interactions.Action;
 import org.openqa.selenium.interactions.Actions;
 
-public class Demo7_Realesate {
+public class Demo7_Realesate_Robot {
 
 	public static void main(String[] args) throws InterruptedException, AWTException {
 		// TODO Auto-generated method stub
